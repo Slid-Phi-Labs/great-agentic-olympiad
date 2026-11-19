@@ -213,7 +213,7 @@ const SNAPSHOT = {
     agent_discovery: `${SITE}/api/agent`,
     x402: `${SITE}/api/x402-products`,
     suite: `${SITE}/pps`,
-    cuni: "https://cuni-studio.fly.dev/",
+    cuni: "https://spl-cuni-studio.fly.dev/",
     agent_rider: "https://agentrider.fly.dev/",
   },
   flows: {
